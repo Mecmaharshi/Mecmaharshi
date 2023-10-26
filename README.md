@@ -15,7 +15,7 @@ I am also well acquainted with the technologies of HTML, CSS and JS. In addition
 
 - 📫 Reach me: ... Email: mecmaharshi9@gmail.com
                           maharshiishujasrajdhawal@gmail.com
-                 😄    Website: https://mecmaharshi.github.io/portfolio-website/
+                
                   
 - ⚡ Fun fact: ... I am also very intrested in Renewables and e-transmission
 
