@@ -1,8 +1,8 @@
 ### Hi there 👋 
 This is Maharshi Ishu Jasraj
 I have a strong understanding of CS fundamentals specifically in:
-●	 - Data Structures and Algorithms
-●	OOPS Concept
+- Data Structures and Algorithms
+- OOPS Concept
 ●	Database Fundamentals
 ●	SQL
 ●	OS Fundamentals
