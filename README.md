@@ -1,13 +1,13 @@
 ### Hi there 👋 
 This is Maharshi Ishu Jasraj
 I have a strong understanding of CS fundamentals specifically in:
-●	#Data Structures and Algorithms
-●	#OOPS Concept
-●	#Database Fundamentals
-●	#SQL
-●	#OS Fundamentals
-●	#Networking Fundamentals
-I am also well acquainted with the technologies of HTML, CSS and JS. In addition to that I have a lot of experience with C++ in programming. 
+●	 - Data Structures and Algorithms
+●	OOPS Concept
+●	Database Fundamentals
+●	SQL
+●	OS Fundamentals
+●	Networking Fundamentals
+I am also well acquainted with C++ & Python in programming. 
 
 - 🔭 I’m currently learning DSA with C++ as the programming language.
 - 🌱 I’m currently persuing B.Tech final year in ECE.
