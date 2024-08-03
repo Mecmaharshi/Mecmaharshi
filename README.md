@@ -1,4 +1,6 @@
-Hi there 👋
+## A software builder from the Blue Planet🌍
+
+
 I'm Maharshi Ishu Jasraj
 
 🚀 Azure & Python Dev | 📈 Data Wizard | 💻 Backend Ninja
