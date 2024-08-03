@@ -11,6 +11,7 @@ I'm Maharshi Ishu Jasraj
 - Data Integrator: Centralized data from various sources seamlessly.
 - Tech Stack: Python, C++, SQL, Django, Flask, FastAPI.
 - Soft Skills: Team & project management, leadership, public speaking.
+
 🎓 CS Fundamentals: Data Structures, Algorithms, OOP, SQL Databases, OS & Networking.
 
 🌟 Currently: Associate Engineer @ Celebal Technologies. Working with Django, FastAPI, Flask, and Azure Services (Logic Apps, Function Apps, App Service, APIM).
